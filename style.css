@@ -13,7 +13,7 @@
 .header-image {
   width: 100%;
 }
-.header .more-info {
+.more-info {
   font-family: fantasy, cursive;
 }
 
@@ -43,7 +43,8 @@
   margin: 0;
   padding: 0;
 }
-.list-item, .list-title {
+.list-item, 
+.list-title {
   list-style: none;
 }
 .task,
